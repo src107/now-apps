@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component">
+    <sys_ux_lib_component action="INSERT_OR_UPDATE">
+        <default_children/>
+        <default_layout/>
+        <deprecated>false</deprecated>
+        <overrides/>
+        <required_sys_props/>
+        <required_translation_keys/>
+        <source_script/>
+        <source_script_name>score-card-component</source_script_name>
+        <sys_class_name>sys_ux_lib_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-25 17:14:56</sys_created_on>
+        <sys_id>8ddb362b4c1ee8cd6476938aba98b5ea</sys_id>
+        <sys_mod_count>452755</sys_mod_count>
+        <sys_name>x-488908-score-card-component</sys_name>
+        <sys_package display_value="score-card-component" source="x_488908_score_c_0">905b5ee0db023010ee1f8e47489619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="score-card-component">905b5ee0db023010ee1f8e47489619db</sys_scope>
+        <sys_update_name>sys_ux_lib_component_8ddb362b4c1ee8cd6476938aba98b5ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-25 18:03:50</sys_updated_on>
+        <tag>x-488908-score-card-component</tag>
+    </sys_ux_lib_component>
+</record_update>
