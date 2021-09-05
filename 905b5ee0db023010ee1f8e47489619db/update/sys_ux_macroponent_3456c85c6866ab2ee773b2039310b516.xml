@@ -24,7 +24,7 @@
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-08-25 18:03:55</sys_created_on>
+        <sys_created_on>2021-09-04 22:06:56</sys_created_on>
         <sys_id>3456c85c6866ab2ee773b2039310b516</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Single Score Card</sys_name>
@@ -33,6 +33,6 @@
         <sys_scope display_value="score-card-component">905b5ee0db023010ee1f8e47489619db</sys_scope>
         <sys_update_name>sys_ux_macroponent_3456c85c6866ab2ee773b2039310b516</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-25 18:03:55</sys_updated_on>
+        <sys_updated_on>2021-09-04 22:06:56</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

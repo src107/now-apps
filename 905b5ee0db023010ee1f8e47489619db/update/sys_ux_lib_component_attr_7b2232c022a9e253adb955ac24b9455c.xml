@@ -59,7 +59,7 @@
         <staged>false</staged>
         <sys_class_name>sys_ux_lib_component_attr</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-08-25 18:03:51</sys_created_on>
+        <sys_created_on>2021-09-04 22:06:52</sys_created_on>
         <sys_id>7b2232c022a9e253adb955ac24b9455c</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Card Title</sys_name>
@@ -68,7 +68,7 @@
         <sys_scope display_value="score-card-component">905b5ee0db023010ee1f8e47489619db</sys_scope>
         <sys_update_name>sys_ux_lib_component_attr_7b2232c022a9e253adb955ac24b9455c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-25 18:03:51</sys_updated_on>
+        <sys_updated_on>2021-09-04 22:06:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
