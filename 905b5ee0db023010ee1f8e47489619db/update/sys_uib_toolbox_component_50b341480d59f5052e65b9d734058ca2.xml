@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
     <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <config_layout/>
         <description>Card to Display single score details</description>
         <external_configuration_sources/>
         <icon>document-outline</icon>
